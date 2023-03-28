@@ -11,7 +11,7 @@
     <modules>
         <module>bot</module>
         <module>scrapper</module>
-        <module>link-parser</module>
+        <module>link-parserr</module>
     </modules>
 
     <properties>
