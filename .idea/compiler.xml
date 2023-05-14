@@ -8,7 +8,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="scrapper" />
         <module name="link-parser" />
-        <module name="bot" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
